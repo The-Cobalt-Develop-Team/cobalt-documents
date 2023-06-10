@@ -1,0 +1,4 @@
+site_name: Cobalt文档
+nav:
+  - Home: index.md
+  - Standard: standard.md
