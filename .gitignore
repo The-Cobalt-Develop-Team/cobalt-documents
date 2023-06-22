@@ -1,3 +1,5 @@
 site/
 .venv/
 *.bak
+Pipfile
+Pipfile.lock
