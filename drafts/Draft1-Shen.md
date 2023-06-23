@@ -64,4 +64,18 @@ data Color = Red | Green | Blue
 
 类似C++泛型的方式？传统C方式？Monad？
 
-# 4.关于泛型
+# 4.关于泛型与自动类型推断
+
+自动类型推断应该达到一个怎么样的精准度？
+
+# 5.lambda演算
+
+# 6.尾递归优化
+
+# 7.条件控制（case expressions和guards）
+
+# 8.反射
+
+# 9.严格求值与惰性求值
+
+# 10.Functor&Monad
